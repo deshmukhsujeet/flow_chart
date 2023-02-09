@@ -1,0 +1,9 @@
+step 1 : Start
+step 2 : Input Limit of numbers n
+step 3 : Assign i=1 and sum=0
+step 4 : Whether i==n true go to step 8 and false go to step 5
+step 5 : if i%2==0 false go to step 7
+step 6 : Calculate i = sum+1 and updated sum value
+step 7 : Calculate i = i+1 and go to step 4
+step 8 : print sum
+step 9 : stop

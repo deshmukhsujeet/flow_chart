@@ -1,0 +1,5 @@
+step 1 : Start
+step 2 : Input : a,b
+step 3 : sum = a+b
+step 4 : Display sum
+step 5 : End

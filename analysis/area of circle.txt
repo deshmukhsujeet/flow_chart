@@ -1,0 +1,5 @@
+step 1 : Start
+step 2 : Input : Radius
+step 3 : Area of circle = 3.14*radius
+step 4 : Display Area of circle
+step 5 : End
